@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				49,
+				-148
+			],
+			"anim": "idle-loop",
+			"fps": 14,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				95,
+				-167
+			],
+			"anim": "singLEFT-loop",
+			"fps": 14,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				17,
+				-136
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 14,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				-156
+			],
+			"anim": "singUP-loop",
+			"fps": 14,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				49,
+				-148
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "perro idle"
+		},
+		{
+			"offsets": [
+				95,
+				-167
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "perro left"
+		},
+		{
+			"offsets": [
+				30,
+				-136
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "perro down"
+		},
+		{
+			"offsets": [
+				42,
+				-182
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "perro up"
+		},
+		{
+			"offsets": [
+				17,
+				-136
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "perro right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/perro",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "parappa",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

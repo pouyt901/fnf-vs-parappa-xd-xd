@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibby.png">
+<SubTexture name="pibby idle0000" x="1439" y="1344" width="411" height="343" frameX="-152" frameY="-234" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0001" x="1979" y="0" width="413" height="342" frameX="-152" frameY="-235" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0002" x="0" y="1749" width="429" height="334" frameX="-150" frameY="-242" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0003" x="429" y="1749" width="434" height="331" frameX="-150" frameY="-245" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0004" x="863" y="1749" width="441" height="328" frameX="-150" frameY="-248" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0005" x="429" y="1749" width="434" height="331" frameX="-150" frameY="-245" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0006" x="0" y="1749" width="429" height="334" frameX="-150" frameY="-242" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0007" x="0" y="1749" width="429" height="334" frameX="-150" frameY="-242" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0008" x="1979" y="0" width="413" height="342" frameX="-152" frameY="-235" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby idle0009" x="1439" y="1344" width="411" height="343" frameX="-152" frameY="-234" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby left0000" x="1134" y="915" width="400" height="417" frameX="-121" frameY="-149" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby left0001" x="1592" y="0" width="387" height="416" frameX="-114" frameY="-150" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby left0002" x="0" y="915" width="386" height="429" frameX="-125" frameY="-137" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby left0003" x="386" y="915" width="386" height="429" frameX="-125" frameY="-137" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby down0000" x="1141" y="431" width="374" height="430" frameX="-186" frameY="-163" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby down0001" x="0" y="473" width="369" height="442" frameX="-181" frameY="-151" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby down0002" x="369" y="473" width="370" height="437" frameX="-186" frameY="-156" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby down0003" x="739" y="473" width="374" height="430" frameX="-186" frameY="-163" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby up0000" x="1592" y="416" width="368" height="405" frameX="-181" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby up0001" x="772" y="915" width="362" height="429" frameX="-181" frameY="-153" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby up0002" x="1592" y="821" width="368" height="405" frameX="-181" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby up0003" x="0" y="1344" width="368" height="405" frameX="-181" frameY="-176" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby right0000" x="1141" y="0" width="451" height="431" frameX="-189" frameY="-153" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby right0001" x="998" y="1344" width="441" height="364" frameX="-199" frameY="-220" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby right0002" x="683" y="1344" width="315" height="370" frameX="-189" frameY="-214" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby right0003" x="368" y="1344" width="315" height="384" frameX="-189" frameY="-200" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby right0004" x="0" y="0" width="362" height="473" frameX="-196" frameY="-111" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby right0005" x="744" y="0" width="397" height="465" frameX="-196" frameY="-119" frameWidth="640" frameHeight="640" />
+<SubTexture name="pibby right0006" x="362" y="0" width="382" height="466" frameX="-196" frameY="-118" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

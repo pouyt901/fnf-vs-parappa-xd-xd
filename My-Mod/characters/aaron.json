@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				177
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "aaron idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				178
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "aaron left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				175
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "aaron down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				178
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "aaron up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				175
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "aaron right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/aaron",
+	"position": [
+		35,
+		382
+	],
+	"healthicon": "aaron",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		30,
+		-292
+	],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": true
+}
